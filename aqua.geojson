@@ -1,0 +1,243 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Seattle Aquarium",
+        "Rating": 4.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.34323501586913,
+          47.60781228494069
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Westport Aquarium",
+        "Rating": 4.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.11460876464844,
+          46.90665289084876
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Oregon Coast Aquarium",
+        "Rating": 4.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.04663085937499,
+          44.61393394730626
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Aquarium of the Bay",
+        "Rating": 4.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.44262695312501,
+          37.80544394934271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Monterey Bay Aquarium",
+        "Rating": 4.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.937255859375,
+          36.61552763134925
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Aquarium of the Pacific",
+        "Rating": 4.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.2513427734375,
+          33.75631505992707
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Birch Aquarium at Scripps Institution of Oceanography",
+        "Rating": 4.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -117.27630615234374,
+          32.83690450361482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Texas State Aquarium",
+        "Rating": 4.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -97.3828125,
+          27.732160709580906
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Sea Center Texas",
+        "Rating": 4.7
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -95.042724609375,
+          29.29598055871569
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Audubon Aquarium of the Americas",
+        "Rating": 4.4
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -89.98901367187499,
+          29.954934549656144
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Key West Aquarium",
+        "Rating": 4.1
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.7822265625,
+          24.56710835257599
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "UGA Marine Education Center and Aquarium",
+        "Rating": 4.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -81.01318359375,
+          31.92885480180959
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "North Carolina Aquarium on Roanoke Island",
+        "Rating": 4.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -75.83038330078125,
+          35.913522985137384
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "National Aquarium",
+        "Rating": 4.6
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -76.56372070312499,
+          39.27478966170308
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "New York Aquarium",
+        "Rating": 4.2
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -73.9874267578125,
+          40.59727063442024
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "New England Aquarium",
+        "Rating": 4.5
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -71.0540771484375,
+          42.39912215986002
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "Aquarium Name": "Maine State Aquarium",
+        "Rating": 4.3
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -69.58740234375,
+          43.87017822557581
+        ]
+      }
+    }
+  ]
+}
