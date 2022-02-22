@@ -5,7 +5,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is abundant in the Oregon, Washington, Vancouver Coast and Shelf ecoregion.",
-        "Abundancy Rating": 3
+        "Rating": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -59,7 +59,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is abundant in the Northern California ecoregion.",
-        "Abundancy Rating": 3
+        "Rating": 3
       },
       "geometry": {
         "type": "Polygon",
@@ -125,7 +125,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is common in the Southern California Bight ecoregion.",
-        "Abundancy Rating": 2
+        "Rating": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -183,7 +183,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is present but not common in the Northern Gulf of Mexico ecoregion.",
-        "Abundancy Rating": 1
+        "Rating": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -337,7 +337,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "The Southern Gulf of Mexico and Floridian ecoregion has no kelp.",
-        "Abundancy Rating": 0
+        "Rating": 0
       },
       "geometry": {
         "type": "Polygon",
@@ -483,7 +483,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is present in the Carolinian ecoregion.",
-        "Abundancy Rating": 1
+        "Rating": 1
       },
       "geometry": {
         "type": "Polygon",
@@ -565,7 +565,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is common in the Virginian ecoregion.",
-        "Abundancy Rating": 2
+        "Rating": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -735,7 +735,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is common in the Gulf of Maine/Bay of Fundy ecoregion.",
-        "Abundancy Rating": 2
+        "Rating": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -865,7 +865,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is common in the Cortezian ecoregion.",
-        "Abundancy Rating": 2
+        "Rating": 2
       },
       "geometry": {
         "type": "Polygon",
@@ -1067,7 +1067,7 @@
       "type": "Feature",
       "properties": {
         "Kelp Info": "Kelp is common in the Magdalena Transition ecoregion.",
-        "Abundancy Rating": 2
+        "Rating": 2
       },
       "geometry": {
         "type": "Polygon",
