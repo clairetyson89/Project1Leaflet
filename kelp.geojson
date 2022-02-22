@@ -4,7 +4,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is abundant in the Oregon, Washington, Vancouver Coast and Shelf ecoregion.",
+        "Info": "Kelp is abundant in the Oregon, Washington, Vancouver Coast and Shelf ecoregion.",
         "Rating": 3
       },
       "geometry": {
@@ -58,7 +58,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is abundant in the Northern California ecoregion.",
+        "Info": "Kelp is abundant in the Northern California ecoregion.",
         "Rating": 3
       },
       "geometry": {
@@ -124,7 +124,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is common in the Southern California Bight ecoregion.",
+        "Info": "Kelp is common in the Southern California Bight ecoregion.",
         "Rating": 2
       },
       "geometry": {
@@ -182,7 +182,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is present but not common in the Northern Gulf of Mexico ecoregion.",
+        "Info": "Kelp is present but not common in the Northern Gulf of Mexico ecoregion.",
         "Rating": 1
       },
       "geometry": {
@@ -336,7 +336,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "The Southern Gulf of Mexico and Floridian ecoregion has no kelp.",
+        "Info": "The Southern Gulf of Mexico and Floridian ecoregion has no kelp.",
         "Rating": 0
       },
       "geometry": {
@@ -482,7 +482,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is present in the Carolinian ecoregion.",
+        "Info": "Kelp is present in the Carolinian ecoregion.",
         "Rating": 1
       },
       "geometry": {
@@ -564,7 +564,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is common in the Virginian ecoregion.",
+        "Info": "Kelp is common in the Virginian ecoregion.",
         "Rating": 2
       },
       "geometry": {
@@ -734,7 +734,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is common in the Gulf of Maine/Bay of Fundy ecoregion.",
+        "Info": "Kelp is common in the Gulf of Maine/Bay of Fundy ecoregion.",
         "Rating": 2
       },
       "geometry": {
@@ -864,7 +864,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is common in the Cortezian ecoregion.",
+        "Info": "Kelp is common in the Cortezian ecoregion.",
         "Rating": 2
       },
       "geometry": {
@@ -1066,7 +1066,7 @@
     {
       "type": "Feature",
       "properties": {
-        "Kelp Info": "Kelp is common in the Magdalena Transition ecoregion.",
+        "Info": "Kelp is common in the Magdalena Transition ecoregion.",
         "Rating": 2
       },
       "geometry": {
